@@ -9529,7 +9529,7 @@ color:black !important; }
   cursor: pointer;
   position: relative; }
   .burger.light:before, .burger.light span, .burger.light:after {
-    background: #fff; }
+    background: black; }
 
 .burger:before, .burger span, .burger:after {
   width: 100%;
